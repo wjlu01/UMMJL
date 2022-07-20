@@ -1,0 +1,1 @@
+Download the resnet pretrained model.
