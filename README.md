@@ -72,7 +72,7 @@ Description of some parameters in main.py:
 
 ## Model Testing
 ### Download Checkpoints
-We will provide links to download our checkpoints.
+We provide links to download our checkpoints in `save_model/README.md`.
 
 ### Testing
 Test the three sub-tasks in Bloomberg with the three auxiliary tasks respectively.
